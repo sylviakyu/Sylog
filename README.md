@@ -1,5 +1,5 @@
 # my_blog
-Create your own blog easily.
+Create blog by Django.
 
 1. Pull the repo
 2. Build image
